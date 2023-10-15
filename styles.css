@@ -1,1 +1,14 @@
-.Xon
+h1{
+    text-align: center;
+    background-color: gray;
+    color: pink;
+}
+body{
+    background-color: #818877;
+}
+
+li{
+    display: inline-block;
+    margin: 20px 20px;   
+    padding: 10px 10px 
+}
